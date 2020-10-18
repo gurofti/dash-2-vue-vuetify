@@ -48,7 +48,7 @@
                     </v-col>
                     <v-col cols="12" md="4" class="teal accent-3">
                       <v-card-text class="white--text mt-12">
-                        <h1 class="text-center display-1">Hello, Friends!</h1>
+                        <h1 class="text-center display-1">Hello, Gürkan!</h1>
                         <h5 class="text-center">Enter your personnel details and startkournay with us</h5>
                       </v-card-text>
                       <div class="text-center">
