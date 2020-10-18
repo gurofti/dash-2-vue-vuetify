@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
+### Font Add
+```
+npm install material-design-icons-iconfont -D
+```
+
+### Font Awesome Add
+```
+npm install @fortawesome/fontawesome-free -D
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
